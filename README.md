@@ -1,11 +1,3 @@
-# kaml is no longer maintained
-
-I am no longer actively using kaml and do not have time to maintain it properly, and so this project is now archived.
-
-The source code and published artifacts will remain available for the foreseeable future.
-
-Maintained forks are welcome and encouraged.
-
 # kaml
 
 [![Pipeline](https://github.com/charleskorn/kaml/actions/workflows/build.yml/badge.svg)](https://github.com/charleskorn/kaml/actions/workflows/build.yml)
